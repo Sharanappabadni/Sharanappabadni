@@ -2,39 +2,49 @@
 
 ## 🚀 Automation Architect | GenAI & Agentic AI Enthusiast | Python Expert  
 
-🌟 With 10+ years of experience in **automation architecture, test strategy, and scalable framework design**, I specialize in building **intelligent, high-performance systems** across healthcare, AI/ML, and finance domains.  
+🌟 With 10+ years of experience in **automation architecture, test strategy, and scalable framework design**, I’m now focusing on **Generative AI and Agentic AI systems**.  
+I specialize in building **RAG pipelines, multi-agent workflows, and scalable AI-powered automation frameworks** that drive real-world impact.  
 
-Currently, I’m working on **GenAI-driven projects** using LangGraph, LangChain, and FastAPI — building **agentic RAG systems**, automation frameworks, and multi-agent orchestration pipelines.  
+💡 My goal is to combine **automation excellence** with **GenAI innovation** — empowering organizations to leverage **LLMs, embeddings, and orchestration frameworks** for next-gen intelligent solutions.  
+
+---
+
+### 🤖 GenAI Focus
+- 🔎 **Retrieval-Augmented Generation (RAG):** Designing intelligent retrieval pipelines with embeddings and vector stores.  
+- 🧑‍🤝‍🧑 **Multi-Agent Orchestration:** Building LangGraph-powered workflows where multiple AI agents collaborate.  
+- 🛠️ **Frameworks:** LangGraph, LangChain, MCP, Ollama, FastAPI for AI-driven APIs.  
+- 🧪 **Use Cases:** Chatbots, intelligent data validation, healthcare data automation, agentic assistants.  
 
 ---
 
 ### 🔧 Tech Stack
+- **GenAI & LLMs**: LangGraph, LangChain, MCP, Ollama, RAG Systems  
 - **Languages**: Python, Java, SQL  
-- **Frameworks & Tools**: FastAPI, LangGraph, LangChain, Playwright, Pytest, Rest Assured, Selenium, Appium  
+- **Frameworks & Tools**: FastAPI, Playwright, Pytest, Rest Assured, Selenium, Appium  
 - **Performance Testing**: JMeter, Gatling, K6  
-- **Cloud & DevOps**: AWS, GCP, Snowflake, Postgres, Jenkins, GitLab, CI/CD  
-- **Specialties**: Automation Architecture, Agentic AI, RAG Pipelines, UI/API/Data Automation  
+- **Cloud & Data**: AWS, GCP, Snowflake, Postgres  
+- **DevOps**: GitLab, Jenkins, CI/CD pipelines  
 
 ---
 
 ### 🏆 Achievements & Recognition
-- 🏅 **Promising Newbie Award** – HiLabs (2025)  
-- 🏆 **Goal Crusher Award** – HiLabs (High-impact automation & GenAI solutions)  
-- ⭐ **Best Employee of the Year** – Rakuten  
-- 🎯 Multiple **Spot Awards** for cross-team collaboration & test strategy excellence  
-- 🥇 **Rakathon Top 10** – Multiple times at Rakuten’s hackathon events  
+- 🏅 **Promising Newbie Award** – HiLabs (2025) for impactful automation & GenAI onboarding  
+- 🏆 **Goal Crusher Award** – HiLabs for delivering high-impact **GenAI-driven automation**  
+- ⭐ **Best Employee of the Year** – Rakuten (for innovation in AI-driven automation)  
+- 🎯 Multiple **Spot Awards** for cross-team collaboration & test strategy leadership  
+- 🥇 **Rakathon Top 10** – Multiple times at Rakuten’s hackathons for innovative AI solutions  
 
 ---
 
 ### 📜 Certifications
-- 🎓 **Databricks Accredited Generative AI Fundamentals**  
+- 🎓 **Databricks Accredited Generative AI Fundamentals** (industry-recognized GenAI certification)  
 - 🎓 **Master LangChain and Ollama – Chatbot, RAG, and Agents (Udemy)**  
-- 🎓 **Star Agile – Data Engineer Training** (hands-on practical training in data engineering concepts)  
+- 🎓 **Star Agile – Data Engineer Training** (hands-on data engineering & pipelines)  
 
 ---
 
 ### 📊 GitHub Stats
-![Sharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharanappabadni&show_icons=true&theme=tokyonight)
+![Sharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharanappabadni&show_icons=true&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharanappabadni&layout=compact&theme=tokyonight)  
 
@@ -46,5 +56,4 @@ Currently, I’m working on **GenAI-driven projects** using LangGraph, LangChain
 
 ---
 
-⭐️ From [Sharanappa Badni](https://github.com/YSharanappabadni)
-
+⭐️ From [Sharanappa Badni](https://github.com/Sharanappabadni)
