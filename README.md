@@ -36,14 +36,15 @@ I enjoy solving complex system problems and mentoring engineers.
 
 ### 🤖 Agentic AI / GenAI
 
-* LangGraph, LangChain, CrewAI, Microsoft Agent Framework (MCP)
-* RAG Architectures, LlamaIndex, Semantic Kernel
-* Prompt Engineering, Guardrails
-* Vector DBs: ChromaDB, FAISS, Weaviate
+* LangGraph, CrewAI, Open AI SDK Agent
+* GPT models, Groq, Gemini, Llama 3.1 70B, Azure API
+* RAG Architectures, LLM, LangChain, MCP, LiteLLM
+* Prompt Engineering, Guardrails, Fine tuning
+* Vector DBs: ChromaDB, FAISS, Amazon OpenSearch, 
 
 ### 💻 Backend & Automation
 
-* Python, Java, FastAPI
+* Python, FastAPI, Microservices
 * Pytest, Playwright, Selenium, Rest Assured
 * Distributed automation frameworks
 
@@ -70,8 +71,6 @@ I enjoy solving complex system problems and mentoring engineers.
 * Built **MCP-based multi-agent RAG platform** using FastAPI → reduced manual review by **75%**
 * Re-architected Python validation pipelines → **3 weeks → 3 days**
 * Developed AI-driven schema consistency engine → **80% data accuracy improvement**
-* Mentored 6 engineers on Agentic AI & backend architecture
-
 ---
 
 ### Technical Lead
