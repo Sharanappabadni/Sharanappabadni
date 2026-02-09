@@ -1,8 +1,3 @@
-Perfect — I’ve updated your title to **Lead Software Engineer** and structured this as a **GitHub-ready README profile** that highlights your Agentic AI work, engineering depth, and leadership.
-
-You can copy–paste this directly into your `README.md` on GitHub:
-
----
 
 # 👋 Hi, I’m Sharanappa Badni
 
