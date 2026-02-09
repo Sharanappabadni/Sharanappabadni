@@ -1,169 +1,168 @@
-Hi, I’m Sharanappa Badni
-🚀 Lead Software Engineer | Agentic AI | GenAI | Automation
+Perfect — I’ve updated your title to **Lead Software Engineer** and structured this as a **GitHub-ready README profile** that highlights your Agentic AI work, engineering depth, and leadership.
+
+You can copy–paste this directly into your `README.md` on GitHub:
+
+---
+
+# 👋 Hi, I’m Sharanappa Badni
+
+## 🚀 Lead Software Engineer | Agentic AI | GenAI | Automation
 
 📍 Bengaluru, India
-📧 sharanbadni10@gmail.com
+📧 [sharanbadni10@gmail.com](mailto:sharanbadni10@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/sharanappa-badni-32467b74)
 
-🔗 LinkedIn
+---
 
-🧠 About Me
+## 🧠 About Me
 
-Lead Software Engineer with 10+ years of experience building scalable backend systems, intelligent automation frameworks, and Agentic AI platforms.
+Lead Software Engineer with **10+ years of experience** building scalable backend systems, intelligent automation frameworks, and **Agentic AI platforms**.
 
 I specialize in:
 
-Designing multi-agent GenAI systems
-
-Building RAG pipelines for enterprise knowledge
-
-Developing Python + FastAPI microservices
-
-Creating self-healing automation frameworks
-
-Scaling platforms on AWS & GCP
+* Designing **multi-agent GenAI systems**
+* Building **RAG pipelines** for enterprise knowledge
+* Developing **Python + FastAPI microservices**
+* Creating **self-healing automation frameworks**
+* Scaling platforms on **AWS & GCP**
 
 I’ve helped teams:
 
-✅ Reduce delivery cycles by 60%+
-✅ Cut manual processing by 75%
-✅ Improve AI response accuracy to 90%+
-✅ Serve 1M+ daily requests with 99.9% uptime
+✅ Reduce delivery cycles by **60%+**
+✅ Cut manual processing by **75%**
+✅ Improve AI response accuracy to **90%+**
+✅ Serve **1M+ daily requests** with 99.9% uptime
 
 I enjoy solving complex system problems and mentoring engineers.
 
-🛠 Tech Stack
-🤖 Agentic AI / GenAI
+---
 
-LangGraph, LangChain, CrewAI, Microsoft Agent Framework (MCP)
+## 🛠 Tech Stack
 
-RAG Architectures, LlamaIndex, Semantic Kernel
+### 🤖 Agentic AI / GenAI
 
-Prompt Engineering, Guardrails
+* LangGraph, LangChain, CrewAI, Microsoft Agent Framework (MCP)
+* RAG Architectures, LlamaIndex, Semantic Kernel
+* Prompt Engineering, Guardrails
+* Vector DBs: ChromaDB, FAISS, Weaviate
 
-Vector DBs: ChromaDB, FAISS, Weaviate
+### 💻 Backend & Automation
 
-💻 Backend & Automation
+* Python, Java, FastAPI
+* Pytest, Playwright, Selenium, Rest Assured
+* Distributed automation frameworks
 
-Python, Java, FastAPI
+### ☁ Cloud & DevOps
 
-Pytest, Playwright, Selenium, Rest Assured
+* AWS, GCP
+* Docker, Kubernetes, Jenkins
+* CI/CD, Git, ELK Stack
 
-Distributed automation frameworks
+### 📊 Data
 
-☁ Cloud & DevOps
+* SQL, PostgreSQL, Snowflake
+* Airflow
+* Data validation & schema comparison frameworks
 
-AWS, GCP
+---
 
-Docker, Kubernetes, Jenkins
+## 💼 Experience
 
-CI/CD, Git, ELK Stack
+### Lead Software Engineer / Automation Architect
 
-📊 Data
+**HiLabs – Bengaluru** | *Jan 2025 – Present*
 
-SQL, PostgreSQL, Snowflake
+* Built **MCP-based multi-agent RAG platform** using FastAPI → reduced manual review by **75%**
+* Re-architected Python validation pipelines → **3 weeks → 3 days**
+* Developed AI-driven schema consistency engine → **80% data accuracy improvement**
+* Mentored 6 engineers on Agentic AI & backend architecture
 
-Airflow
+---
 
-Data validation & schema comparison frameworks
+### Technical Lead
 
-💼 Experience
-Lead Software Engineer / Automation Architect
+**Rakuten India – Bengaluru** | *Feb 2020 – Jan 2025*
 
-HiLabs – Bengaluru | Jan 2025 – Present
+* Delivered enterprise GenAI chatbot (LangChain + Semantic Kernel) → **70% engagement uplift**
+* Scaled FastAPI services on GCP to **1M+ daily requests**
+* Built contextual RAG pipelines → **75% relevance boost**
+* Created Playwright + Pytest framework with **95% test coverage**
+* Reduced deployment cycles by **60%** via CI/CD
 
-Built MCP-based multi-agent RAG platform using FastAPI → reduced manual review by 75%
+---
 
-Re-architected Python validation pipelines → 3 weeks → 3 days
+### Senior SDET / DevOps Engineer
 
-Developed AI-driven schema consistency engine → 80% data accuracy improvement
+**Daytona Systems** | *2018 – 2020*
 
-Mentored 6 engineers on Agentic AI & backend architecture
+* CI/CD automation with Jenkins + Docker + Gatling
+* Improved throughput by **20%**
+* Reduced releases by **40%**
 
-Technical Lead
+---
 
-Rakuten India – Bengaluru | Feb 2020 – Jan 2025
+### Senior SDET
 
-Delivered enterprise GenAI chatbot (LangChain + Semantic Kernel) → 70% engagement uplift
+**Cuemath** | *2016 – 2018*
 
-Scaled FastAPI services on GCP to 1M+ daily requests
+* Automated 24+ microservice APIs
+* Mobile automation using Appium
+* Cut Jenkins build time by **50%**
 
-Built contextual RAG pipelines → 75% relevance boost
+---
 
-Created Playwright + Pytest framework with 95% test coverage
+## 🤖 Key Agentic AI Projects
 
-Reduced deployment cycles by 60% via CI/CD
+### 🔹 Multi-Agent RAG Assistant
 
-Senior SDET / DevOps Engineer
+* MCP-based autonomous system
+* Reduced manual workload by **70%**
+* Tool-aware agents + vector memory
 
-Daytona Systems | 2018 – 2020
+### 🔹 Autonomous Python Orchestrator
 
-CI/CD automation with Jenkins + Docker + Gatling
+* Self-healing automation engine
+* Intelligent retries + failure reasoning
 
-Improved throughput by 20%
+### 🔹 Semantic Kernel Knowledge Bot
 
-Reduced releases by 40%
+* Persistent vector memory
+* Contextual retrieval
+* Achieved **90%+ answer accuracy**
 
-Senior SDET
+---
 
-Cuemath | 2016 – 2018
+## 🏆 Certifications & Awards
 
-Automated 24+ microservice APIs
+* Promising Newbie Award – HiLabs (2025)
+* Goal Crusher Award – HiLabs (2025)
+* Best Employee of the Year – Rakuten (2023)
+* Databricks Generative AI Fundamentals (2024)
+* Master LangChain & Ollama – Udemy (2024)
+* Data Engineering – Star Agile (2023)
 
-Mobile automation using Appium
+---
 
-Cut Jenkins build time by 50%
+## 🎓 Education
 
-🤖 Key Agentic AI Projects
-🔹 Multi-Agent RAG Assistant
-
-MCP-based autonomous system
-
-Reduced manual workload by 70%
-
-Tool-aware agents + vector memory
-
-🔹 Autonomous Python Orchestrator
-
-Self-healing automation engine
-
-Intelligent retries + failure reasoning
-
-🔹 Semantic Kernel Knowledge Bot
-
-Persistent vector memory
-
-Contextual retrieval
-
-Achieved 90%+ answer accuracy
-
-🏆 Certifications & Awards
-
-Promising Newbie Award – HiLabs (2025)
-
-Goal Crusher Award – HiLabs (2025)
-
-Best Employee of the Year – Rakuten (2023)
-
-Databricks Generative AI Fundamentals (2024)
-
-Master LangChain & Ollama – Udemy (2024)
-
-Data Engineering – Star Agile (2023)
-
-🎓 Education
-
-B.Tech – Electronics & Communication
+**B.Tech – Electronics & Communication**
 Visvesvaraya Technological University
 2008 – 2012
 
-🌱 Currently Exploring
+---
 
-Advanced Agentic patterns (LangGraph + MCP)
+## 🌱 Currently Exploring
 
-Tool-driven autonomous systems
+* Advanced Agentic patterns (LangGraph + MCP)
+* Tool-driven autonomous systems
+* Multi-RAG architectures
+* Observability for GenAI pipelines
+* Unified Agent frameworks
 
-Multi-RAG architectures
+---
 
-Observability for GenAI pipelines
+### 📫 Let’s Connect
 
-Unified Agent frameworks
+If you’re building GenAI platforms, Agentic systems, or automation frameworks — feel free to reach out!
+
+---
