@@ -1,59 +1,169 @@
-# 👋 Hi, I'm Sharanappa Badni  
+Hi, I’m Sharanappa Badni
+🚀 Lead Software Engineer | Agentic AI | GenAI | Automation
 
-## 🚀 Automation Architect | GenAI & Agentic AI Enthusiast | Python Expert  
+📍 Bengaluru, India
+📧 sharanbadni10@gmail.com
 
-🌟 With 10+ years of experience in **automation architecture, test strategy, and scalable framework design**, I’m now focusing on **Generative AI and Agentic AI systems**.  
-I specialize in building **RAG pipelines, multi-agent workflows, and scalable AI-powered automation frameworks** that drive real-world impact.  
+🔗 LinkedIn
 
-💡 My goal is to combine **automation excellence** with **GenAI innovation** — empowering organizations to leverage **LLMs, embeddings, and orchestration frameworks** for next-gen intelligent solutions.  
+🧠 About Me
 
----
+Lead Software Engineer with 10+ years of experience building scalable backend systems, intelligent automation frameworks, and Agentic AI platforms.
 
-### 🤖 GenAI Focus
-- 🔎 **Retrieval-Augmented Generation (RAG):** Designing intelligent retrieval pipelines with embeddings and vector stores.  
-- 🧑‍🤝‍🧑 **Multi-Agent Orchestration:** Building LangGraph-powered workflows where multiple AI agents collaborate.  
-- 🛠️ **Frameworks:** LangGraph, LangChain, MCP, Ollama, FastAPI for AI-driven APIs.  
-- 🧪 **Use Cases:** Chatbots, intelligent data validation, healthcare data automation, agentic assistants.  
+I specialize in:
 
----
+Designing multi-agent GenAI systems
 
-### 🔧 Tech Stack
-- **GenAI & LLMs**: LangGraph, LangChain, MCP, Ollama, RAG Systems  
-- **Languages**: Python, Java, SQL  
-- **Frameworks & Tools**: FastAPI, Playwright, Pytest, Rest Assured, Selenium, Appium  
-- **Performance Testing**: JMeter, Gatling, K6  
-- **Cloud & Data**: AWS, GCP, Snowflake, Postgres  
-- **DevOps**: GitLab, Jenkins, CI/CD pipelines  
+Building RAG pipelines for enterprise knowledge
 
----
+Developing Python + FastAPI microservices
 
-### 🏆 Achievements & Recognition
-- 🏅 **Promising Newbie Award** – HiLabs (2025) for impactful automation & GenAI onboarding  
-- 🏆 **Goal Crusher Award** – HiLabs for delivering high-impact **GenAI-driven automation**  
-- ⭐ **Best Employee of the Year** – Rakuten (for innovation in AI-driven automation)  
-- 🎯 Multiple **Spot Awards** for cross-team collaboration & test strategy leadership  
-- 🥇 **Rakathon Top 10** – Multiple times at Rakuten’s hackathons for innovative AI solutions  
+Creating self-healing automation frameworks
 
----
+Scaling platforms on AWS & GCP
 
-### 📜 Certifications
-- 🎓 **Databricks Accredited Generative AI Fundamentals** (industry-recognized GenAI certification)  
-- 🎓 **Master LangChain and Ollama – Chatbot, RAG, and Agents (Udemy)**  
-- 🎓 **Star Agile – Data Engineer Training** (hands-on data engineering & pipelines)  
+I’ve helped teams:
 
----
+✅ Reduce delivery cycles by 60%+
+✅ Cut manual processing by 75%
+✅ Improve AI response accuracy to 90%+
+✅ Serve 1M+ daily requests with 99.9% uptime
 
-### 📊 GitHub Stats
-![Sharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharanappabadni&show_icons=true&theme=tokyonight)  
+I enjoy solving complex system problems and mentoring engineers.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharanappabadni&layout=compact&theme=tokyonight)  
+🛠 Tech Stack
+🤖 Agentic AI / GenAI
 
----
+LangGraph, LangChain, CrewAI, Microsoft Agent Framework (MCP)
 
-### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sharanappa-badni-32467b74/)  
-- [Email](mailto:sharanbadni10@gmail.com)  
+RAG Architectures, LlamaIndex, Semantic Kernel
 
----
+Prompt Engineering, Guardrails
 
-⭐️ From [Sharanappa Badni](https://github.com/Sharanappabadni)
+Vector DBs: ChromaDB, FAISS, Weaviate
+
+💻 Backend & Automation
+
+Python, Java, FastAPI
+
+Pytest, Playwright, Selenium, Rest Assured
+
+Distributed automation frameworks
+
+☁ Cloud & DevOps
+
+AWS, GCP
+
+Docker, Kubernetes, Jenkins
+
+CI/CD, Git, ELK Stack
+
+📊 Data
+
+SQL, PostgreSQL, Snowflake
+
+Airflow
+
+Data validation & schema comparison frameworks
+
+💼 Experience
+Lead Software Engineer / Automation Architect
+
+HiLabs – Bengaluru | Jan 2025 – Present
+
+Built MCP-based multi-agent RAG platform using FastAPI → reduced manual review by 75%
+
+Re-architected Python validation pipelines → 3 weeks → 3 days
+
+Developed AI-driven schema consistency engine → 80% data accuracy improvement
+
+Mentored 6 engineers on Agentic AI & backend architecture
+
+Technical Lead
+
+Rakuten India – Bengaluru | Feb 2020 – Jan 2025
+
+Delivered enterprise GenAI chatbot (LangChain + Semantic Kernel) → 70% engagement uplift
+
+Scaled FastAPI services on GCP to 1M+ daily requests
+
+Built contextual RAG pipelines → 75% relevance boost
+
+Created Playwright + Pytest framework with 95% test coverage
+
+Reduced deployment cycles by 60% via CI/CD
+
+Senior SDET / DevOps Engineer
+
+Daytona Systems | 2018 – 2020
+
+CI/CD automation with Jenkins + Docker + Gatling
+
+Improved throughput by 20%
+
+Reduced releases by 40%
+
+Senior SDET
+
+Cuemath | 2016 – 2018
+
+Automated 24+ microservice APIs
+
+Mobile automation using Appium
+
+Cut Jenkins build time by 50%
+
+🤖 Key Agentic AI Projects
+🔹 Multi-Agent RAG Assistant
+
+MCP-based autonomous system
+
+Reduced manual workload by 70%
+
+Tool-aware agents + vector memory
+
+🔹 Autonomous Python Orchestrator
+
+Self-healing automation engine
+
+Intelligent retries + failure reasoning
+
+🔹 Semantic Kernel Knowledge Bot
+
+Persistent vector memory
+
+Contextual retrieval
+
+Achieved 90%+ answer accuracy
+
+🏆 Certifications & Awards
+
+Promising Newbie Award – HiLabs (2025)
+
+Goal Crusher Award – HiLabs (2025)
+
+Best Employee of the Year – Rakuten (2023)
+
+Databricks Generative AI Fundamentals (2024)
+
+Master LangChain & Ollama – Udemy (2024)
+
+Data Engineering – Star Agile (2023)
+
+🎓 Education
+
+B.Tech – Electronics & Communication
+Visvesvaraya Technological University
+2008 – 2012
+
+🌱 Currently Exploring
+
+Advanced Agentic patterns (LangGraph + MCP)
+
+Tool-driven autonomous systems
+
+Multi-RAG architectures
+
+Observability for GenAI pipelines
+
+Unified Agent frameworks
